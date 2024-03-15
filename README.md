@@ -1,6 +1,4 @@
 # CooldownDisplay
 Cooldown on display
 
-https://github.com/NoobzinhoFLAME/CooldownDisplay/assets/161374215/a008e266-bb39-4f14-b64e-c0dde92f5a12
-
-
+https://github.com/NoobzinhoFLAME/CooldownDisplay/assets/161374215/fd86964b-d543-482d-99d7-121bd18d603e
