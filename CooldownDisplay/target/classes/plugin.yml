@@ -1,0 +1,5 @@
+name: CooldownDisplay
+version: 1.0.0
+main: com.noobzinhoflame.CooldownDisplay.Main
+author: NoobzinhoFLAME
+load: STARTUP
