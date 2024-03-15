@@ -1,0 +1,2 @@
+# CooldownDisplay
+Cooldown on display
